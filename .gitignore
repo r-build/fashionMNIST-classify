@@ -1,7 +1,4 @@
-data/
 *.ipynb_checkpoints*
 *.csv
-*.zip
 *.npy
-*.ipynb
 __pycache__
