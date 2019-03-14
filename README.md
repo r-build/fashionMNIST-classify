@@ -1,5 +1,7 @@
 # fashionMNIST-classify
-Classify images from the fashion-MNIST dataset using neural network models: densley-connected, and convolutional.
+Classify images from the fashion-MNIST dataset using:
+ - densley-connected neural network model
+ - convolutional neural network model
 
 ## data
 The data is a subset (20,000 images) from the complete [fashion-MNIST dataset here](https://github.com/zalandoresearch/fashion-mnist)
