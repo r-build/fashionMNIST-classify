@@ -1,4 +1,4 @@
-# fashionMNIST-classify
+# fashionMNIST image classification
 Classify images from the fashion-MNIST dataset using:
  - densley-connected neural network model
  - convolutional neural network model
